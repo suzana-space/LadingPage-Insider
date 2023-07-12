@@ -1,0 +1,7 @@
+.card{padding: 0%;}
+
+.card img{height: 50%;}
+
+.card-body {
+    align-items: flex-end
+}
